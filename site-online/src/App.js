@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> first project in react.
+          Edit <code>src/App.js</code> alteração.
         </p>
         <a
           className="App-link"
